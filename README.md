@@ -3,13 +3,11 @@
 
 - 🌱 I’m currently learning **Frontend Development**
 
-- 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
-
 - 💬 Ask me about **HTML, CSS, Javascript, ReactJS and Frontend**
 
 - 📫 How to reach me **mandeepsingh120498@gmail.com**
 
-- 📄 Know about my experiences [coming soon...](coming soon...)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-QTmnbubuU85vJCBFZV1muBsQHtl3KTK/view?pli=1">Download Resume</a>
 
 - ⚡ Fun fact **I get lost in the world of React.js, designing UI with such passion that I never get exhausted - it's my superpower!**
 
